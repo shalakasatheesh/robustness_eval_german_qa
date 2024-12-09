@@ -1,4 +1,4 @@
-# Robustness Evaluation for the German Extractive Question Answering Task
+# Robustness Evaluation of the German Extractive Question Answering Task
 
 Authors: Shalaka Satheesh, Katharina Beckh, Katrin Klug, Héctor Allende-Cid, Teena Hassan, Sebastian Houben
 
