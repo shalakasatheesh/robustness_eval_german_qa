@@ -76,10 +76,10 @@ Code to run the experiments listed in the paper. See [README.md](./src/README.md
 
 # Citation:
 Please cite our paper as below:
-'''
+```
 @InProceedings{ 
 title={Robustness Evaluation of the German Extractive Question Answering Task},
 author={Shalaka Satheesh and Katharina Beckh and Katrin Klug and Héctor Allende-Cid and Sebastian Houben and Teena Hassan},
 author    = {Sanchez, Ramses and Conrads, Lukas and Welke, Pascal and Cvejoski, Kostadin and Ojeda, César},
 }
-'''
+```
