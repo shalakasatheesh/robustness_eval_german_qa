@@ -73,3 +73,13 @@ Code to run the experiments listed in the paper. See [README.md](./src/README.md
 1. Tunstall, L. & Chaumond, J. (May 2022). SQuAD metric. [HuggingFace Spaces](https://huggingface.co/spaces/evaluate-metric/squad/blob/main/squad.py).
 2.  Kumar, R. (Sep 2022). typo. [GitHub](https://github.com/ranvijaykumar/typo)
 3. Yorke, A. (Dec 2016). butter-fingers. [GitHub](https://github.com/alexyorke/butter-fingers/blob/master/butterfingers/butterfingers.py)
+
+# Citation:
+Please cite our paper as below:
+'''
+@InProceedings{ 
+title={Robustness Evaluation of the German Extractive Question Answering Task},
+author={Shalaka Satheesh and Katharina Beckh and Katrin Klug and Héctor Allende-Cid and Sebastian Houben and Teena Hassan},
+author    = {Sanchez, Ramses and Conrads, Lukas and Welke, Pascal and Cvejoski, Kostadin and Ojeda, César},
+}
+'''
