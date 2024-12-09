@@ -11,7 +11,6 @@ To ensure reliable performance of Question Answering (QA) systems, evaluation of
 Code to run the experiments listed in the paper. See [README.md](./src/README.md) for instructions on how to run the experiments. 
 
     .
-    ├── file.txt
     ├── README.md
     └── src
         ├── convert_to_jsonl.py
