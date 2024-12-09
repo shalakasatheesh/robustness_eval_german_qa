@@ -1,0 +1,3 @@
+[submodule "src/squad"]
+	path = src/squad
+	url = https://huggingface.co/spaces/shalakasatheesh/squad
