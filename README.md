@@ -77,8 +77,27 @@ Code to run the experiments listed in the paper. See [README.md](./src/README.md
 # Citation:
 Please cite our paper as below:
 ```
-@InProceedings{ 
-title={Robustness Evaluation of the German Extractive Question Answering Task},
-author={Shalaka Satheesh and Katharina Beckh and Katrin Klug and Héctor Allende-Cid and Sebastian Houben and Teena Hassan},
+@inproceedings{satheesh-etal-2025-robustness,
+    title = "Robustness Evaluation of the {G}erman Extractive Question Answering Task",
+    author = "Satheesh, Shalaka  and
+      Beckh, Katharina  and
+      Klug, Katrin  and
+      Allende-Cid, H{\'e}ctor  and
+      Houben, Sebastian  and
+      Hassan, Teena",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.coling-main.121/",
+    pages = "1785--1801",
+    abstract = "To ensure reliable performance of Question Answering (QA) systems, evaluation of robustness is crucial. Common evaluation benchmarks commonly only include performance metrics, such as Exact Match (EM) and the F1 score. However, these benchmarks overlook critical factors for the deployment of QA systems. This oversight can result in systems vulnerable to minor perturbations in the input such as typographical errors. While several methods have been proposed to test the robustness of QA models, there has been minimal exploration of these approaches for languages other than English. This study focuses on the robustness evaluation of German language QA models, extending methodologies previously applied primarily to English. The objective is to nurture the development of robust models by defining an evaluation method specifically tailored to the German language. We assess the applicability of perturbations used in English QA models for German and perform a comprehensive experimental evaluation with eight models. The results show that all models are vulnerable to character-level perturbations. Additionally, the comparison of monolingual and multilingual models suggest that the former are less affected by character and word-level perturbations."
 }
 ```
