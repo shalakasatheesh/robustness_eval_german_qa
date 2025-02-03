@@ -73,7 +73,7 @@ Code to run the experiments listed in the paper. See [README.md](./src/README.md
 1. Tunstall, L. & Chaumond, J. (May 2022). SQuAD metric. [HuggingFace Spaces](https://huggingface.co/spaces/evaluate-metric/squad/blob/main/squad.py).
 2.  Kumar, R. (Sep 2022). typo. [GitHub](https://github.com/ranvijaykumar/typo)
 3. Yorke, A. (Dec 2016). butter-fingers. [GitHub](https://github.com/alexyorke/butter-fingers/blob/master/butterfingers/butterfingers.py)
-4. Dhole et al. (2023) NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation.[GitHub](https://github.com/GEM-benchmark/NL-Augmenter)
+4. Dhole et al. (2023) NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation. [GitHub](https://github.com/GEM-benchmark/NL-Augmenter)
 
 # Citation:
 Please cite our paper as below:
